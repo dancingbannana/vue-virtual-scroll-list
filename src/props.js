@@ -13,7 +13,7 @@ export const VirtualProps = {
   },
   dataComponent: {
     type: [Object, Function],
-    required: true
+    required: false
   },
 
   keeps: {
